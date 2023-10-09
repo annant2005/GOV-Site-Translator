@@ -114,3 +114,18 @@ body{
 .VIpgJd-ZVi9od-ORHb-OEVmcd {
     visibility: hidden !important;
 }
+@media only screen and (max-width: 700px) {
+   
+.bhasha{
+    left: 0;
+    font-size: 50px;
+}
+.goog-te-gadget .goog-te-combo {
+    top:50px;
+    left:35%
+}
+.contain {
+    left: 0;
+    top: 50px;
+}
+}
