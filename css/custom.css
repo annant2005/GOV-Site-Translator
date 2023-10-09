@@ -81,7 +81,7 @@ body{
 .goog-te-gadget .goog-te-combo {
     margin: 4px 0;
     height: 40px;
-    left: 25rem;
+    left: 45%;
     position: relative;
     border-radius: 20px;
     align-items: center;
@@ -100,7 +100,7 @@ body{
     position: relative;
     align-self: center;
     display: flex;
-    left: 300px;
+    left: 35%;
     top: 21px;
     border-radius: 10px;
     overflow: auto;
