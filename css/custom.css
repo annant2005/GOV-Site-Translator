@@ -45,7 +45,7 @@ body{
     font-family: 'Times New Roman', Times, serif;
 }
 .Lang{
-    font-size:20px ;
+    font-size:15px ;
 }
 .Lang input{
     height: 30px;
@@ -81,6 +81,7 @@ body{
 .goog-te-gadget .goog-te-combo {
     margin: 4px 0;
     height: 40px;
+    top:20px;
     left: 45%;
     position: relative;
     border-radius: 20px;
