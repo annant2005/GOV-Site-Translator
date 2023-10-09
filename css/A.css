@@ -167,4 +167,15 @@
 .VIpgJd-ZVi9od-l4eHX-hSRGPd, .VIpgJd-ZVi9od-l4eHX-hSRGPd:link, .VIpgJd-ZVi9od-l4eHX-hSRGPd:visited, .VIpgJd-ZVi9od-l4eHX-hSRGPd:hover, .VIpgJd-ZVi9od-l4eHX-hSRGPd:active {
     font-size: 0 !important;
 }
-  
+
+@media screen and (max-width: 700px) {
+  .nav .navsearch input{
+    width: 0px;
+  }
+  .nav .navsearch button{
+    visibility: hidden;
+  }
+  .nav .navsearch{
+    width: 0;
+  }
+}
