@@ -5,11 +5,11 @@ body{
 .bhasha{
     margin-top:0;
     font-size: 60px;
-    margin-left: 30%;
+    margin-left:0;
     color: black;
     font-family: fantasy;
     position: relative;
-    left:50px;
+    left:35%;
 }
 
 .bhasha:hover{
@@ -19,7 +19,7 @@ body{
     color: black;
     font-family: fantasy;
     position: relative;
-    left:50px;
+    left:35%;
 }
 
     
