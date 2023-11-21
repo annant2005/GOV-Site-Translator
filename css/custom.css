@@ -5,11 +5,11 @@ body{
 .bhasha{
     margin-top:0;
     font-size: 60px;
-    margin-left: 30%;
+    margin-left:0;
     color: black;
     font-family: fantasy;
     position: relative;
-    left:50px;
+    left:35%;
 }
 
 .bhasha:hover{
@@ -19,7 +19,7 @@ body{
     color: black;
     font-family: fantasy;
     position: relative;
-    left:50px;
+    left:35%;
 }
 
     
@@ -45,7 +45,7 @@ body{
     font-family: 'Times New Roman', Times, serif;
 }
 .Lang{
-    font-size:20px ;
+    font-size:15px ;
 }
 .Lang input{
     height: 30px;
@@ -81,7 +81,8 @@ body{
 .goog-te-gadget .goog-te-combo {
     margin: 4px 0;
     height: 40px;
-    left: 25rem;
+    top:20px;
+    left: 45%;
     position: relative;
     border-radius: 20px;
     align-items: center;
@@ -100,7 +101,7 @@ body{
     position: relative;
     align-self: center;
     display: flex;
-    left: 300px;
+    left: 35%;
     top: 21px;
     border-radius: 10px;
     overflow: auto;
@@ -112,4 +113,19 @@ body{
 }
 .VIpgJd-ZVi9od-ORHb-OEVmcd {
     visibility: hidden !important;
+}
+@media only screen and (max-width: 700px) {
+   
+.bhasha{
+    left: 0;
+    font-size: 50px;
+}
+.goog-te-gadget .goog-te-combo {
+    top:50px;
+    left:35%
+}
+.contain {
+    left: 0;
+    top: 50px;
+}
 }
